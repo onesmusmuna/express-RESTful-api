@@ -2,4 +2,4 @@
 
 type the id of a course to see it
 
-app.get "/api/courses/"
+app.get "/api/courses/:id"
